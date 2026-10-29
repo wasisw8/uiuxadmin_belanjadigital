@@ -1,0 +1,25 @@
+{
+  "name": "tokoku-admin-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "recharts": "^3.3.0",
+    "motion": "^14.5.0",
+    "lucide-react": "^0.548.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
+  }
+}
